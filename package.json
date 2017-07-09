@@ -1,0 +1,30 @@
+{
+  "name": "materialize",
+  "version": "1.0.0",
+  "description": "Project for the Materialize CSS framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-laws/materialize_dev.git"
+  },
+  "keywords": [
+    "materialize",
+    "css"
+  ],
+  "author": "Robert Laws",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robert-laws/materialize_dev/issues"
+  },
+  "homepage": "https://github.com/robert-laws/materialize_dev#readme",
+  "dependencies": {
+    "materialize-css": "^0.99.0"
+  },
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
